@@ -1,0 +1,14 @@
+body{
+    font-family: 'Time New Roman', Times, serif;
+    color: #333333;
+    background-color: #fdf8f0;
+}
+
+h1, h2{
+    color: #1B4D3E;
+
+}
+
+h1{
+    text-align:center;
+}
